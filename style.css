@@ -201,3 +201,22 @@ footer p {
     background-repeat: no-repeat;
     background-position: 90% 0;
 }
+/**************** Our Macarons *************************/
+.our_macarons .titles {
+    font-size: 20px;
+    margin: 0 0 5% 5%;
+}
+.our_macarons .paragraphs {
+    font-size: 14px;
+    margin: 5%;
+}
+.our_macarons .list {
+    list-style-type: disc;
+    margin-left: 10%;
+}
+.our_macarons .main {
+    background-image: url(assets/images/our-macarons-background.png);
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+
+}
