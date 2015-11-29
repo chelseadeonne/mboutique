@@ -37,5 +37,4 @@ $(document).ready(function(){
         $("textarea[name='message']").attr('placeholder', 'Message');
         $("input[id='send']").attr('value', 'Send');
     });
-
 });
